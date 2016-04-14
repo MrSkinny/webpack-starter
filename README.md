@@ -4,13 +4,12 @@ This starter kit includes Zepto, SASS and ES6 transpile, and default minificatio
 
 ### Requirements
 
-* npm
-* bundler
+* npm (and Node v4.x+)
+* bundler (and Ruby)
 
 ### Setup
 
-* `npm install`
-* `bundle install`
+* `npm install && bundle install`
 * Edit `package.json` - this is important for how the minified files are named!
   * Name
   * Version
