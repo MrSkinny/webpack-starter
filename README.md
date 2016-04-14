@@ -1,6 +1,6 @@
 # Lightweight Frontend Starter Pack
 
-This starter kit includes SASS and ES6 transpile with minification.
+This starter kit includes Zepto, SASS and ES6 transpile, and default minification.
 
 ### Requirements
 
