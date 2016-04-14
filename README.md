@@ -1,19 +1,16 @@
 # Lightweight Frontend Starter Pack
 
-This starter kit includes SASS/LESS and ES6 transpile with minification.
+This starter kit includes SASS and ES6 transpile with minification.
 
 ### Requirements
 
 * npm
-* bundler (if using SASS)
+* bundler
 
 ### Setup
 
-* Clone repo and choose branch:
-  * `master` (default) for SASS
-  * `less` for LESS
 * `npm install`
-* `bundle install` (if using SASS)
+* `bundle install`
 * Edit `package.json` - this is important for how the minified files are named!
   * Name
   * Version
