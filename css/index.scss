@@ -1,0 +1,11 @@
+@import 'file2.scss';
+
+$reddy: #f00;
+body {
+  background-color: $reddy;
+  margin: 0 auto;
+}
+
+h2 {
+  color: blue;
+}
